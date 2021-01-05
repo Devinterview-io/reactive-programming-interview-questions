@@ -1,6 +1,6 @@
 # 🖲 12 Reactive Programming interview questions for your next tech interview
 
-In computing, reactive programming is a declarative programming paradigm concerned with data streams and the propagation of change.  Follow along and check our list of essential Reactive Programming interview questions and answers that will trend on tech interviews in 2021.
+In computing, reactive programming is a declarative programming paradigm concerned with data streams and the propagation of change.  Follow along and check our list of essential RxJS interview questions and answers that will trend on tech interviews in 2021.
 
 </br>
 
